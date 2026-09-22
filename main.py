@@ -3,8 +3,8 @@ import  datetime as dt
 import random
 import smtplib
 import pandas
-my_email = "myemail@gmail.com"
-password = "mysecceretpass"
+my_email = "ayushkumarbabu5email@gmail.com"
+password = "itet emxf tzmv kpvv"
 now = dt.datetime.now().strftime("%d-%m")
 dataframe = pandas.read_csv("birthdays.csv")
 letters = ["letter_templates/letter_3.txt","letter_templates/letter_2.txt","letter_templates/letter_1.txt"]
