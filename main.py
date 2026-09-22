@@ -3,7 +3,7 @@ import  datetime as dt
 import random
 import smtplib
 import pandas
-my_email = "ayushkumarbabu5email@gmail.com"
+my_email = "ayushkumarbabu5@gmail.com"
 password = "itet emxf tzmv kpvv"
 now = dt.datetime.now().strftime("%d-%m")
 dataframe = pandas.read_csv("birthdays.csv")
